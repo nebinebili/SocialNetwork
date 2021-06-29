@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\bin\Debug\MiniProgram.exe.config
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\bin\Debug\MiniProgram.exe
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\bin\Debug\MiniProgram.pdb
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\obj\Debug\MiniProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\obj\Debug\MiniProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\obj\Debug\MiniProgram.exe
+C:\Users\Admin\source\repos\MiniProgram\MiniProgram\obj\Debug\MiniProgram.pdb
